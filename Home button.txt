@@ -1,1 +1,3 @@
 add new home button
+
+added the event of the home button
